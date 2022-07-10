@@ -17,7 +17,7 @@ const Edit = () => {
       if (targetDiary) {
         setOriginData(targetDiary);
       } else {
-        navigate("/", { replace: true });
+        navigate("/emotion_diary", { replace: true });
       }
     }
   }, [id, diaryList]);
