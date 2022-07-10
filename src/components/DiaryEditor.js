@@ -36,12 +36,12 @@ function DiaryEditor({ isEdit, originData }) {
     }
 
     // onCreate가 함수가 아니라는 error
-    navigate("/emotion_diary", { replace: true });
+    navigate("/", { replace: true });
   };
   const handleRemove = () => {
     if (window.confirm("정말 삭제하시겠습니까?")) {
       onRemove(originData.id);
-      navigate("//", { replace: true });
+      navigate("/", { replace: true });
     }
   };
   useEffect(() => {
