@@ -1,1 +1,5 @@
-Emotion Diary 감정일기장
+
+
+📖 My own emotion diary 📖
+
+Start Here ▶️ https://hyemimi.github.io/emotion-diary/
