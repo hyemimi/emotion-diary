@@ -7,6 +7,6 @@
 Start Here  ▶️ https://hyemimi.github.io/emotion-diary/
 
 
+이정환 - <한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지> clone coding
 
-나만의 감정일기장입니다.
-감정스티커와 함께 당신의 하루를 기록해보세요😊
+감정스티커와 함께 오늘의 감정 기록하기
