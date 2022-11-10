@@ -20,7 +20,7 @@ const Diary = () => {
         setData(targetDiary);
       } else {
         alert("없는 일기입니다.");
-        navigate("/home", { replace: true });
+        navigate("/", { replace: true });
       }
     }
   }, [id, diaryList]);

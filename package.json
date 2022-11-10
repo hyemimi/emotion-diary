@@ -19,7 +19,6 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://hyemimi.github.io/emotion-diary/home",
   "eslintConfig": {
     "extends": [
       "react-app",
